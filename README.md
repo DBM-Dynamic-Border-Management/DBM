@@ -60,6 +60,7 @@ The objectives of this v2 is to provide the following features:
 The objectives of this v3 is to provide the following features:
 
 - Use mattermost for team meetings and use a collaborative text tool on this call and automatically generate the rendering file at the end of the meeting.
+- Create notification before a meeting and display the last review.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a570553-6c45-49c1-8fb7-40016077e8dc/Untitled.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4a570553-6c45-49c1-8fb7-40016077e8dc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210625%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210625T090826Z&X-Amz-Expires=86400&X-Amz-Signature=bdc593436b30892be9d917db24fe06eaea8b04dadc7d2c48501e0a38e96e1cc2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
