@@ -5,6 +5,11 @@ DBM is the new way of organizing all of your project as a team. Using chat solut
 DBM propose a window on the right border of your communication app (atm only on Mattermost) that allows you to insert and organize your most important links in a same place. Whether its your figma project or your next big excel online, give you the shortcut you need. It prevents you from losing time searching for every ressource and it adapts within every other project you create.
 
 ![CANAL_DE_DISCUSSION_AUTRE_GROUPE](https://user-images.githubusercontent.com/44975619/123269068-e7c28a00-d4fe-11eb-83bf-65e8d43beceb.jpg)
+
+
+## Setup
+
+You will need to have the api in local, so check this repo : https://github.com/DBM-Dynamic-Border-Management/dbm-api
 ## Installation
 
 - docker run --name mattermost-preview -d --publish 8065:8065 --add-host dockerhost:127.0.0.1 mattermost/mattermost-preview
